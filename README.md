@@ -15,7 +15,7 @@
 ### 📊 GitHub Stats  
 ![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaralfarouk646&show_icons=true&theme=dark)
 
-## 🛠 Tech Stack  
+## 🛠 Tech Stack 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
@@ -23,4 +23,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Linq_logo.svg" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/ASP.NET_Core_Logo.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
 </p>
