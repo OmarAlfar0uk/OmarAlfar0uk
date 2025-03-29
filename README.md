@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**omaralfarouk646/omaralfarouk646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Omar Al-Farouk! 👋  
+💻 **Backend Developer** | .NET Enthusiast | C# Lover  
 
-Here are some ideas to get you started:
+### 📖 About Me  
+- 🌱 Currently learning **ASP.NET, SQL Server, LINQ, Entity Framework**  
+- 🔧 Building **Backend projects using .NET**  
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/omar-alfarouk-252471251)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack  
+- **Languages:** C#, SQL, JavaScript  
+- **Frameworks:** .NET, ASP.NET, Entity Framework  
+- **Databases:** SQL Server  
+
+### 📊 GitHub Stats  
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaralfarouk646&show_icons=true&theme=dark)
