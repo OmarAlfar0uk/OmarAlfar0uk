@@ -1,29 +1,64 @@
+<div align="center">
+  
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Omar Alfarouk
 
-# Hi there, I'm Omar Al-Farouk! 👋  
-💻 **Backend Developer** | ASP.NET Enthusiast | C# Lover  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/omar-alfarouk)
+[![Email](https://img.shields.io/badge/Email-omar.alfarouk.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.alfarouk.dev@gmail.com)
+[![GitHub Followers](https://img.shields.io/github/followers/omar-alfarouk?style=for-the-badge&logo=github&color=blue&logoColor=white)](https://github.com/omar-alfarouk)
 
-### 📖 About Me  
-- 🌱 Currently learning **ASP.NET, SQL Server, LINQ, Entity Framework**  
-- 🔧 Building **Backend projects using .NET**  
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/omar-alfarouk-252471251)  
+</div>
 
-### 🛠 Tech Stack  
-- **Languages:** C#, SQL, JavaScript  
-- **Frameworks:** .NET, ASP.NET, Entity Framework  
-- **Databases:** SQL Server  
+<br>
 
-### 📊 GitHub Stats  
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omaralfarouk646&show_icons=true&theme=dark)
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>💫 About Me</h2>
+      <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="200">
+      </tr>
+    </td>
+    <td width="40%">
+      <h2>🔥 Tech Stack</h2>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,mysql,git,docker,linux,azure&perline=3&theme=light" alt="Skills" />
+      </div>
+      <br>
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar-alfarouk&layout=donut-vertical&theme=algolia&hide_border=true&bg_color=0d1117&title_color=36bcf7&text_color=ffffff" alt="Most Used Languages" width="100%">
+      </div>
+    </td>
+  </tr>
+</table>
 
-## 🛠 Tech Stack 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar-alfarouk&theme=github-compact&bg_color=0d1117&color=36bcf7&line=36bcf7&point=FFFFFF&area=true&hide_border=true&radius=12" width="95%" alt="Activity Graph">
+</div>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-</p>
+<br>
+
+<h2 align="center">📊 GitHub Metrics</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omar-alfarouk&theme=algolia&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=4&row=2" width="100%" alt="GitHub Trophies" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=omar-alfarouk&theme=algolia&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=36bcf7&icon_color=36bcf7" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=omar-alfarouk&theme=algolia&hide_border=true&background=0d1117&ring=36bcf7&fire=36bcf7&currStreakLabel=36bcf7" alt="GitHub Streak Stats" />
+</div>
+
+<br>
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<div align="center">
+  <p>لو مهتمين بشغل .NET أو حابين تشتغلوا على مشاريع تقنية، ياريت تتواصلوا معايا.</p>
+  
+  <a href="https://linkedin.com/in/omar-alfarouk">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:omar.alfarouk.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
