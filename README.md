@@ -2,8 +2,8 @@
   
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Omar Alfarouk
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/omar-alfarouk)
-[![Email](https://img.shields.io/badge/Email-omar.alfarouk.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.alfarouk.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/omar-alfar0uk)
+[![Email](https://img.shields.io/badge/Email-omar.alfarouk.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaralfarouk646@gmail.com)
 [![GitHub Followers](https://img.shields.io/github/followers/omar-alfarouk?style=for-the-badge&logo=github&color=blue&logoColor=white)](https://github.com/omar-alfarouk)
 
 </div>
@@ -52,13 +52,12 @@
 <h2 align="center">📫 Let's Connect</h2>
 
 <div align="center">
-  <p>لو مهتمين بشغل .NET أو حابين تشتغلوا على مشاريع تقنية، ياريت تتواصلوا معايا.</p>
   
-  <a href="https://linkedin.com/in/omar-alfarouk">
+  <a href="https://linkedin.com/in/omar-alfar0uk">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:omar.alfarouk.dev@gmail.com">
+  <a href="mailto:omaralfarouk646@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
