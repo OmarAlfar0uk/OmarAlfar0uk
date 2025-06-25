@@ -2,9 +2,9 @@
   
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Omar Alfarouk
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/omar-alfar0uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/omar-alfarouk-252471251)
 [![Email](https://img.shields.io/badge/Email-omar.alfarouk.dev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaralfarouk646@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/omar-alfarouk?style=for-the-badge&logo=github&color=blue&logoColor=white)](https://github.com/omar-alfarouk)
+[![GitHub Followers](https://img.shields.io/github/followers/omar-alfarouk?style=for-the-badge&logo=github&color=blue&logoColor=white)](https://github.com/OmarAlfar0uk)
 
 </div>
 
