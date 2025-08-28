@@ -10,6 +10,25 @@
 
 <br>
 
+---
+
+## 🎯 Career Goals  
+- 🚀 Aspiring **Backend Engineer** specializing in **ASP.NET Core**.  
+- ☁️ Interested in **Cloud technologies** & **System Design**.  
+- 📚 Currently enhancing skills in **Onion Architecture, Security, and Scalable APIs**.  
+- 🌍 Goal: To build impactful, enterprise-level applications used by thousands of people.  
+
+---
+
+## 🏆 Certifications & Achievements  
+- 🎓 **ASP.NET Core Backend Development** – Route Academy.  
+- 💡 Participated in **IEEE Xtreme** & **ICPC** Programming Competitions.  
+- 👨‍💻 **TOT Training** (Teaching/Training skills).  
+- 🏅 Lead PR & Presentations Creator @ **Enactus**.  
+- 🤝 PR Member @ **GDG Obour ON Communities**.  
+
+---
+
 <table align="center">
   <tr>
     <td width="60%" valign="top">
@@ -63,6 +82,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarAlfar0uk&theme=algolia&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAlfar0uk&theme=algolia&hide_border=true&background=0d1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="GitHub Streak Stats" />
 </div>
+
+---
+
+## 🌟 Fun Section  
+> *"Code is like humor. When you have to explain it, it’s bad."* 😅  
+
+Or check out today’s random dev joke 👉 [![Jokes Card](https://readme-jokes.vercel.app/api)](https://github.com/ABSphreak/readme-jokes)
+
+---
 
 <div align="center">
   <h2>📫 Let's Connect</h2>
