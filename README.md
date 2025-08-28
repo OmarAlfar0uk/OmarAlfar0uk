@@ -15,7 +15,6 @@
 ## 🎯 Career Goals  
 - 🚀 Aspiring **Backend Engineer** specializing in **ASP.NET Core**.  
 - ☁️ Interested in **Cloud technologies** & **System Design**.  
-- 📚 Currently enhancing skills in **Onion Architecture, Security, and Scalable APIs**.  
 - 🌍 Goal: To build impactful, enterprise-level applications used by thousands of people.  
 
 ---
@@ -24,8 +23,6 @@
 - 🎓 **ASP.NET Core Backend Development** – Route Academy.  
 - 💡 Participated in **IEEE Xtreme** & **ICPC** Programming Competitions.  
 - 👨‍💻 **TOT Training** (Teaching/Training skills).  
-- 🏅 Lead PR & Presentations Creator @ **Enactus**.  
-- 🤝 PR Member @ **GDG Obour ON Communities**.  
 
 ---
 
