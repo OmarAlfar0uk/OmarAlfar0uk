@@ -1,10 +1,13 @@
+> [!NOTE]
+> Hello Ali! Please replace all the placeholder values (like `YOUR_GITHUB_USERNAME`, `YOUR_LINKEDIN_URL`, etc.) with your own information. You can then remove this note.
+
 <div align="center">
   
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Omar Alfarouk
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Ali
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=25&logoHeight=25)](https://www.linkedin.com/in/omar-alfarouk-252471251/)
-[![Email](https://img.shields.io/badge/Email-omaralfarouk646%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25&logoHeight=25)](mailto:omaralfarouk646@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/OmarAlfar0uk?style=for-the-badge&logo=github&color=blue&logoColor=white&logoWidth=25&logoHeight=25)](https://github.com/OmarAlfar0uk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge&logoWidth=25&logoHeight=25)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-YOUR_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=25&logoHeight=25)](mailto:YOUR_EMAIL)
+[![GitHub Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&logo=github&color=blue&logoColor=white&logoWidth=25&logoHeight=25)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -49,35 +52,35 @@
       </div>
       <br>
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlfar0uk&layout=donut-vertical&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00ADD8&text_color=ffffff" alt="Most Used Languages" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=donut-vertical&theme=algolia&hide_border=true&bg_color=0d1117&title_color=00ADD8&text_color=ffffff" alt="Most Used Languages" width="100%">
       </div>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmarAlfar0uk&theme=github-compact&bg_color=0d1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true&radius=12" width="95%" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-compact&bg_color=0d1117&color=00ADD8&line=00ADD8&point=FFFFFF&area=true&hide_border=true&radius=12" width="95%" alt="Activity Graph">
 </div>
 
 <br>
 
 ## 🚀 Featured Projects
 
-- [HR Management System](https://github.com/OmarAlfar0uk) – Backend system for managing employees, attendance, payroll, and roles using ASP.NET Core & Onion Architecture.  
-- [E-Learning Platform](https://github.com/OmarAlfar0uk) – Udemy-like platform with quizzes, reviews, course progress tracking, and secure enrollments.  
-- [FindMyWord Console App](https://github.com/OmarAlfar0uk) – A C# console application to search keywords efficiently in large text files.  
+- [YOUR_PROJECT_NAME](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_REPO) – YOUR_PROJECT_DESCRIPTION.
+- [YOUR_PROJECT_NAME](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_REPO) – YOUR_PROJECT_DESCRIPTION.
+- [YOUR_PROJECT_NAME](https://github.com/YOUR_GITHUB_USERNAME/YOUR_PROJECT_REPO) – YOUR_PROJECT_DESCRIPTION.
 
 <br>
 
 <h2 align="center">📊 GitHub Metrics</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmarAlfar0uk&theme=algolia&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=4&row=2" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=4&row=2" width="100%" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarAlfar0uk&theme=algolia&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAlfar0uk&theme=algolia&hide_border=true&background=0d1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="GitHub Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=algolia&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=algolia&hide_border=true&background=0d1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="GitHub Streak Stats" />
 </div>
 
 ---
@@ -94,11 +97,11 @@ Or check out today’s random dev joke 👉 [![Jokes Card](https://readme-jokes.
   
   <p>I'm always open to new opportunities and collaborations</p>
   
-  <a href="https://www.linkedin.com/in/omar-alfarouk-252471251/">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:omaralfarouk646@gmail.com">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
