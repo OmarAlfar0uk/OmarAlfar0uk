@@ -179,8 +179,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarAlfar0uk&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlfar0uk&layout=compact&theme=radical&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OmarAlfar0uk&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=OmarAlfar0uk&layout=compact&theme=radical&hide_border=true)
 ![Streak Stats](https://streak-stats.demolab.com?user=OmarAlfar0uk&theme=radical&hide_border=true)
 
 <!-- If the stats above do not load, you may be hitting the GitHub API rate limit. Visit https://github.com/anuraghazra/github-readme-stats for troubleshooting. -->
