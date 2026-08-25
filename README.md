@@ -96,8 +96,6 @@
 
 | Role | Company | Duration | Type |
 |------|---------|----------|------|
-| **Backend .NET Developer** | T-Gate | Jan 2026 – Present | Full-time |
-| **Backend Mentor** | Middleware Academy | Jul 2025 – Jan 2026 | Part-time |
 | **Backend .NET Intern** | Elevate Tech | Aug 2025 – Mar 2026 | Internship |
 | **Backend Internship** | ITI | Sep 2024 – Oct 2024 | Internship |
 | **Front-End Internship** | ITI | Aug 2023 – Sep 2023 | Internship |
@@ -105,9 +103,7 @@
 </div>
 
 ### 🏅 Key Achievements
-- **@T-Gate**: Implemented the Deposit order type for the Sales Order module of a production Retail ERP — enum extensions, DTOs, service-layer logic, and EF Core migrations. Debugged a soft-delete tracking bug caused by `AsNoTracking()` reintroducing deleted records.
 - **@Elevate Tech**: Studied Modular Monolith vs. Microservices, Bounded Contexts, and Aggregates. Implemented RabbitMQ messaging, multi-layer caching, and API Gateway routing; practiced CI/CD with Azure DevOps/GitHub Actions.
-- **@Middleware Academy**: Mentored students on ASP.NET Core Web API, EF Core, LINQ, AutoMapper, JWT, RBAC, and Clean Architecture.
 
 ---
 
@@ -183,9 +179,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarAlfar0uk&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ADD8&icon_color=00ADD8&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlfar0uk&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ADD8)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=OmarAlfar0uk&theme=radical&hide_border=true&background=0d1117&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmarAlfar0uk&show_icons=true&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmarAlfar0uk&layout=compact&theme=radical&hide_border=true)
+![Streak Stats](https://streak-stats.demolab.com?user=OmarAlfar0uk&theme=radical&hide_border=true)
 
 <!-- If the stats above do not load, you may be hitting the GitHub API rate limit. Visit https://github.com/anuraghazra/github-readme-stats for troubleshooting. -->
 
