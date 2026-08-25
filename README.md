@@ -5,7 +5,7 @@
 # Hi, I'm Omar Alfarouk 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&width=480&lines=Backend+.NET+Developer;ASP.NET+Core+%7C+EF+Core+%7C+Dapper;Building+scalable+enterprise+systems;Currently+shipping+a+Retail+ERP+%40+T-Gate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00ADD8&width=480&lines=Backend+.NET+Developer;ASP.NET+Core+%7C+EF+Core+%7C+Dapper;Building+scalable+enterprise+systems;Currently+shipping" alt="Typing SVG" />
 </a>
 
 </div>
@@ -37,7 +37,6 @@
 
 ## 💫 About Me
 
-- 💼 Backend .NET Developer @ **T-Gate**, working on a production **Retail ERP system**.
 - 🔭 Previously interned @ **Elevate Tech** — studied Modular Monolith vs. Microservices, RabbitMQ, caching, API Gateway routing.
 - 🌱 Mentored backend students @ **Middleware Academy** (ASP.NET Core, EF Core, JWT, RBAC, Clean Architecture).
 - 🚢 Shipped a **live production e-commerce platform** — [jostwatches.com](https://jostwatches.com) — end-to-end, from architecture to Ubuntu VPS deployment.
