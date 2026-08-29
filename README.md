@@ -4,7 +4,6 @@
 
 ### Backend .NET Developer | ASP.NET Core | System Design 
 
-#### 🚀 Shipped a live production e-commerce platform end-to-end — [jostwatches.com](https://jostwatches.com)
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omaralfarouk646@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-alfarouk-252471251/)
