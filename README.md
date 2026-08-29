@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Omar Alfarouk Ashraf
 
-### Backend .NET Developer | ASP.NET Core | System Design Enthusiast
+### Backend .NET Developer | ASP.NET Core | System Design 
 
 #### 🚀 Shipped a live production e-commerce platform end-to-end — [jostwatches.com](https://jostwatches.com)
 
