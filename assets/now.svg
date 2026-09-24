@@ -1,7 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="36" viewBox="0 0 720 36">
-  <rect width="720" height="36" fill="#0d1117" rx="6"/>
-  <text x="14" y="23" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="400" fill="#484f58" letter-spacing="0.5">currently building</text>
-  <rect x="148" y="10" width="1" height="16" fill="#30363d"/>
-  <circle cx="168" cy="18" r="4" fill="#3fb950" opacity="0.9"/>
-  <text x="180" y="23" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#e6edf3">Backend modules for a production Retail ERP at T-Gate</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="44" viewBox="0 0 720 44">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="44" fill="url(#bg1)"/>
+  <rect x="0" y="0" width="720" height="1" fill="#21262d"/>
+  <rect x="0" y="43" width="720" height="1" fill="#21262d"/>
+
+  <!-- prompt symbol -->
+  <text x="14" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" fill="#7B5CF8" opacity="0.7">&gt;</text>
+
+  <!-- rotating messages -->
+  <text x="32" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#c9d1d9">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.24;0.33;1" dur="12s" repeatCount="indefinite"/>
+    building production backend modules for a retail ERP at T-Gate
+  </text>
+  <text x="32" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#c9d1d9">
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.34;0.57;0.66;1" dur="12s" repeatCount="indefinite"/>
+    clean architecture is not optional — it is just the cost of sleeping well
+  </text>
+  <text x="32" y="28" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" fill="#c9d1d9">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.67;0.90;1" dur="12s" repeatCount="indefinite"/>
+    one feature per folder, easy to find, easy to delete, easy to ship
+  </text>
+
+  <!-- blinking cursor -->
+  <rect x="692" y="15" width="8" height="16" fill="#7B5CF8" rx="1">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.45;0.5;1" dur="1.05s" repeatCount="indefinite"/>
+  </rect>
 </svg>
