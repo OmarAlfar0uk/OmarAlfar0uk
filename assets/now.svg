@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="36" viewBox="0 0 720 36">
+  <rect width="720" height="36" fill="#0d1117" rx="6"/>
+  <text x="14" y="23" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="400" fill="#484f58" letter-spacing="0.5">currently building</text>
+  <rect x="148" y="10" width="1" height="16" fill="#30363d"/>
+  <circle cx="168" cy="18" r="4" fill="#3fb950" opacity="0.9"/>
+  <text x="180" y="23" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#e6edf3">Backend modules for a production Retail ERP at T-Gate</text>
+</svg>
