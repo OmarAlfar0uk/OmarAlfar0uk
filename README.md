@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OmarAlfar0uk/OmarAlfar0uk/master/assets/header.svg" alt="Omar Alfarouk — Backend .NET Developer" width="880"/>
+  <img src="https://raw.githubusercontent.com/OmarAlfar0uk/OmarAlfar0uk/main/assets/header.svg" alt="Omar Alfarouk — Backend .NET Developer" width="880"/>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OmarAlfar0uk/OmarAlfar0uk/master/assets/now.svg" alt="currently building" width="720"/>
+  <img src="https://raw.githubusercontent.com/OmarAlfar0uk/OmarAlfar0uk/main/assets/now.svg" alt="currently building" width="720"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" height="22"/>
