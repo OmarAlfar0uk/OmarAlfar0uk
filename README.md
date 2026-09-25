@@ -73,6 +73,14 @@ admin dashboard. React 18, TypeScript, Vite, Tailwind, Framer Motion, shadcn/ui.
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmarAlfar0uk/OmarAlfar0uk/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OmarAlfar0uk/OmarAlfar0uk/output/github-snake.svg"/>
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/OmarAlfar0uk/OmarAlfar0uk/output/github-snake.svg" width="100%"/>
+</picture>
+
+---
+
 <p align="center">
   <a href="mailto:omaralfarouk646@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="24"/></a>
   &nbsp;
